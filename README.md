@@ -51,9 +51,9 @@ pip install psutil schedule python-dotenv
 ---
 
 ## 📂 Project Structure
-Server-SysLog-Mailer/
+Server-SysLog-Mailer/\
 ├── ServerProcessMonitoringModules.py # Core monitoring & email logic\
-├── main.py # CLI entry point & scheduler\
+├── ServerProcessMonitoringScript.py # CLI entry point & scheduler\
 ├── logs/ # Auto-created log output directory\
 ├── requirements.txt\
 └── README.md\
