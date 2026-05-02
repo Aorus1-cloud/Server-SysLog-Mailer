@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-**Server-SysLog-Mailer ** is a lightweight, scheduled system monitoring CLI tool built with Python.  
+**Server-SysLog-Mailer** is a lightweight, scheduled system monitoring CLI tool built with Python.  
 It captures a full snapshot of your server's health — CPU, RAM, disk, network, and the  
 top 10 most memory-hungry processes — writes a structured `.log` file, and automatically  
 delivers it to your inbox via Gmail SMTP.
@@ -56,7 +56,7 @@ Server-SysLog-Mailer/\
 ├── ServerProcessMonitoringScript.py # CLI entry point & scheduler\
 ├── logs/ # Auto-created log output directory\
 ├── requirements.txt\
-└── README.md\
+└── README.md
 
 
 ---
