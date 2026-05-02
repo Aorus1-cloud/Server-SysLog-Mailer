@@ -52,11 +52,11 @@ pip install psutil schedule python-dotenv
 
 ## 📂 Project Structure
 Server-SysLog-Mailer /
-├── ServerProcessMonitoringModules.py # Core monitoring & email logic
-├── main.py # CLI entry point & scheduler
-├── logs/ # Auto-created log output directory
-├── requirements.txt
-└── README.md
+├── ServerProcessMonitoringModules.py # Core monitoring & email logic\
+├── main.py # CLI entry point & scheduler\
+├── logs/ # Auto-created log output directory\
+├── requirements.txt\
+└── README.md\
 
 
 ---
@@ -105,25 +105,25 @@ Server-SysLog-Mailer  uses **Gmail App Passwords** — not your actual Gmail pas
 
 ## 📄 Sample Log Output
 
-------This is the log report of the system info of the server.----
+------This is the log report of the system info of the server.----\
 
----------------------------System Report--------------------------
-CPU Usage : 14.3%%
-RAM Usage : 62.5%%
+---------------------------System Report--------------------------\
+CPU Usage : 14.3%%\
+RAM Usage : 62.5%%\
 
-Disk Usage Report
-/ -> 74.2%% used
+Disk Usage Report\
+/ -> 74.2%% used\
 
-Network Usage Report
-Sent : 120.45 Mb
-Recv : 980.32 Mb
+Network Usage Report\
+Sent : 120.45 Mb\
+Recv : 980.32 Mb\
 
-------------------Top Memory Consuming Processes------------------
-PID : 1423
-Process Name : python3
-Owner : ubuntu
-CPU Usage : 2.30%%
-RAM Usage : 145.23 MB
+------------------Top Memory Consuming Processes------------------\
+PID : 1423\
+Process Name : python3\
+Owner : fedora\
+CPU Usage : 2.30%%\
+RAM Usage : 145.23 MB\
 ...
 ...
 ...
@@ -146,7 +146,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 ## 👤 Author
-
-**Your Name**  
+**Jayesh**  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aorus1-cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-patil-b94108339/)
